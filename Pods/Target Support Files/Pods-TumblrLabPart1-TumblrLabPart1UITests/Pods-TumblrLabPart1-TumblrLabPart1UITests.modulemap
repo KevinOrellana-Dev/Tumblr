@@ -1,0 +1,6 @@
+framework module Pods_TumblrLabPart1_TumblrLabPart1UITests {
+  umbrella header "Pods-TumblrLabPart1-TumblrLabPart1UITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
