@@ -1,5 +1,7 @@
 # Tumblr Experiment
-The purpose of this program is to familiarize myself how to use APIs (Tumblr's API) and how to configure table views in swift. 
+The purpose of this program is to familiarize myself on how to use Tumblr's API and on how to configure table views in swift.
+
+
 
 
 **Video Walthrough**
