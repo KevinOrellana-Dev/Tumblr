@@ -4,5 +4,5 @@ The purpose of this program is to familiarize myself on how to use Tumblr's API 
 
 
 
-##Video Walthrough
+## Video Walthrough
 <img src = 'https://recordit.co/hoxdvOF4Pv.gif' title = 'Video Walkthrough' width = '' alt = 'Video Walktrhough' />
